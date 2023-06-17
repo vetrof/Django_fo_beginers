@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28097626-0b49-48ac-822e-7f99352ffa92" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/blog_project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_project/.idea/blog_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_project/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_project/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_project/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_project/blog/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_project/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_project/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_project/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_project/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_project/blog_project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_project/blog_project/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_project/blog_project/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_project/blog_project/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_project/blog_project/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_project/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_project/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_project/static/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_project/static/img/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_project/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_project/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_project/templates/post_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mb/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mb/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mb/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mb/.idea/mb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mb/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mb/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mb/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mb/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mb/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mb/mb_project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mb/mb_project/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mb/mb_project/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mb/mb_project/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mb/mb_project/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mb/posts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mb/posts/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mb/posts/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mb/posts/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mb/posts/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mb/posts/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mb/posts/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mb/posts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mb/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newspaper_project/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newspaper_project/users/migrations/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RG1lZ7mdTvmS12PrA25ilePk1R" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28097626-0b49-48ac-822e-7f99352ffa92" name="Changes" comment="" />
+      <created>1686861755898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686861755898</updated>
+      <workItem from="1686861757141" duration="2000" />
+    </task>
+    <servers />
+  </component>
+</project>
